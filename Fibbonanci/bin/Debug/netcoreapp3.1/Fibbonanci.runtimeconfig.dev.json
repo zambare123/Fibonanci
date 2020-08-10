@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zamba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zamba\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+D:\Development\Fibbonanci\Fibbonanci\bin\Debug\netcoreapp3.1\Fibbonanci.exe
+D:\Development\Fibbonanci\Fibbonanci\bin\Debug\netcoreapp3.1\Fibbonanci.deps.json
+D:\Development\Fibbonanci\Fibbonanci\bin\Debug\netcoreapp3.1\Fibbonanci.runtimeconfig.json
+D:\Development\Fibbonanci\Fibbonanci\bin\Debug\netcoreapp3.1\Fibbonanci.runtimeconfig.dev.json
+D:\Development\Fibbonanci\Fibbonanci\bin\Debug\netcoreapp3.1\Fibbonanci.dll
+D:\Development\Fibbonanci\Fibbonanci\bin\Debug\netcoreapp3.1\Fibbonanci.pdb
+D:\Development\Fibbonanci\Fibbonanci\obj\Debug\netcoreapp3.1\Fibbonanci.csprojAssemblyReference.cache
+D:\Development\Fibbonanci\Fibbonanci\obj\Debug\netcoreapp3.1\Fibbonanci.AssemblyInfoInputs.cache
+D:\Development\Fibbonanci\Fibbonanci\obj\Debug\netcoreapp3.1\Fibbonanci.AssemblyInfo.cs
+D:\Development\Fibbonanci\Fibbonanci\obj\Debug\netcoreapp3.1\Fibbonanci.csproj.CoreCompileInputs.cache
+D:\Development\Fibbonanci\Fibbonanci\obj\Debug\netcoreapp3.1\Fibbonanci.dll
+D:\Development\Fibbonanci\Fibbonanci\obj\Debug\netcoreapp3.1\Fibbonanci.pdb
+D:\Development\Fibbonanci\Fibbonanci\obj\Debug\netcoreapp3.1\Fibbonanci.genruntimeconfig.cache
